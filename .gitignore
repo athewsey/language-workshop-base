@@ -2,6 +2,7 @@
 .DS_Store
 .aws-sam
 **.tmp.*
+**/data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
